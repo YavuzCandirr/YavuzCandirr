@@ -6,8 +6,8 @@
 
 <p align="center">
   🔧 **Yazılım Geliştirici | Maker | Arduino & C++ | Python | Yapay Zeka | NumPY Pandas **<br>
-  📍 **Konum:** İstanbul<br>
-  📫 **İletişim:** gsgs6850@gmail.com
+  📍 Konum: İstanbul<br>
+  📫 İletişim: gsgs6850@gmail.com
 </p>
 
 ---
@@ -49,9 +49,9 @@
 ---
 
 ## 📫 Bana Ulaşın
-- 📧 E-posta: yavuzcandir@example.com  
+- 📧 E-posta: gsgs6850@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/yavuzcandir](https://www.linkedin.com/in/yavuzcandir)  
-- 🐦 Twitter: [@YavuzC](https://twitter.com/YavuzC)  
+ 
 
 ---
 
