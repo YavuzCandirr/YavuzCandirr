@@ -49,7 +49,7 @@
 ---
 
 ## 📫 Bana Ulaşın
-- 📧 E-posta: gsgs6850@gmail.com  
+- 📧 E-posta: yavuzzcandir@gmail.com 
 - 🌐 LinkedIn: [linkedin.com/in/Yavuz ÇANDIR](https://www.linkedin.com/in/yavuz-%C3%A7and%C4%B1r-19646a287/)  
  
 
