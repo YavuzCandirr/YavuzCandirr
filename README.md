@@ -53,7 +53,4 @@
 - 🌐 LinkedIn: [linkedin.com/in/Yavuz ÇANDIR](https://www.linkedin.com/in/yavuz-%C3%A7and%C4%B1r-19646a287/)  
  
 
----
 
-<h3 align="center">💡 Motivasyon</h3>
-<p align="center">"Kod yazmak sadece işi yapmak değil, aynı zamanda dünyaya değer katmaktır."</p>
