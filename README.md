@@ -14,8 +14,8 @@
 
 ## 💻 Hakkımda
 - C#, Arduino ve Python ile proje geliştirme deneyimi  
+- Veri bilimi ve temel AI
 - Gömülü sistemler ve elektronik prototipleme  
-- Veri bilimi ve temel AI konularına ilgi  
 
 ---
 
