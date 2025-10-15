@@ -24,9 +24,9 @@
 | Proje | Açıklama | GitHub Linki |
 |-------|----------|--------------|
 | Sales_Analysis | XGBoost ile tahmin | [repo](https://github.com/YavuzCandirr/Sales_Analysis_)
-
+|Drug_Sales | İlaç Satış ve Tahmin Analizi | [repo](https://github.com/YavuzCandirr/Drug_Sales_Analysis)
 |🔐 Kasa Kilidi Projesi | Arduino ile şifreli kasa kilidi sistemi | [Repo](https://github.com/YavuzCandirr/kasa_kilidi) |
-|
+
 ---
 
 ## 🛠️ Teknolojiler & Araçlar
