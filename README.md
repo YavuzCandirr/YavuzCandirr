@@ -23,10 +23,10 @@
 
 | Proje | Açıklama | GitHub Linki |
 |-------|----------|--------------|
-| 🔐 Kasa Kilidi Projesi | Arduino ile şifreli kasa kilidi sistemi | [Repo](https://github.com/YavuzCandirr/kasa_kilidi) |
-| 🚗 Park Sensörü | Ultrasonik sensör ile araç park algılama | [Repo](https://github.com/YavuzCandirr/park_sensoru) |
-| 💬 Kayan Yazı Ekranı | LCD ekranda kayan yazı gösterimi | [Repo](https://github.com/YavuzCandirr/kayan_yazi) |
+| Sales_Analysis | XGBoost ile tahmin | [repo](https://github.com/YavuzCandirr/Sales_Analysis_)
 
+|🔐 Kasa Kilidi Projesi | Arduino ile şifreli kasa kilidi sistemi | [Repo](https://github.com/YavuzCandirr/kasa_kilidi) |
+|
 ---
 
 ## 🛠️ Teknolojiler & Araçlar
