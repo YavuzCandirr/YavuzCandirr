@@ -23,9 +23,10 @@
 
 | Proje | Açıklama | GitHub Linki |
 |-------|----------|--------------|
+| Ida_project | ida simülasyonu | [repo](https://github.com/YavuzCandirr/ida projesi) 
 | Sales_Analysis | XGBoost ile tahmin | [repo](https://github.com/YavuzCandirr/Sales_Analysis_)
 | Drug_Sales_Analysis | İlaç Satış Verisi Analizi ve Satış Tahmini | [repo](https://github.com/YavuzCandirr/Drug_Sales_Analysis)
-| Kasa Kilidi Projesi | Arduino ile şifreli kasa kilidi sistemi | [Repo](https://github.com/YavuzCandirr/kasa_kilidi) |
+
 
 ---
 
