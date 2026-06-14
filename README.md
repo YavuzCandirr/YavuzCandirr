@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔧 **Yazılım Geliştirici | C | | STMCubeIde | |STMCubeMX | | Maker | Arduino & C++ | Python | Yapay Zeka | NumPY Pandas **<br>
+  🔧 **Yazılım Geliştirici | Maker | Arduino & C++ | Python | Yapay Zeka | NumPY Pandas **<br>
   📍 Konum: İstanbul<br>
   📫 İletişim: yavuzzcandir@gmail.com
 </p>
